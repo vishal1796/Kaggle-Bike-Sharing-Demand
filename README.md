@@ -1,1 +1,2 @@
-# Kaggle-Bike-Sharing-Demand
+# Bike Sharing Demand
+my solution for kaggle bike sharing problem.
